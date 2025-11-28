@@ -1,3 +1,6 @@
+**Website**
+https://zulm19.github.io/bicycle-ride-planner/
+
 **Bicycle Ride Planner**
 
 Bicycle Ride Planner is a web app that helps users discover curated cycling routes and check live weather conditions in Singapore.
@@ -79,6 +82,7 @@ bicycle-ride-planner/
 
 Media
 Pictures obtained for banner and background of the site was obtained from https://www.pexels.com/search/forest%20and%20bicycle/
+
 
 
 
