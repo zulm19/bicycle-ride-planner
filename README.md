@@ -3,9 +3,9 @@ https://zulm19.github.io/bicycle-ride-planner/
 
 **Bicycle Ride Planner**
 
-Bicycle Ride Planner is a web app that helps users discover curated cycling routes and check live weather conditions in Singapore.
+Bicycle Ride Planner is a simple, user-friendly web app that helps Singapore beginner and casual cyclists answer one key question: “Where should I ride today, and is the weather okay for it?” Its straight forward interface allows users choose how long they want to cycle either 30, 60, or 90 minutes and the app instantly suggests local pre-planned routes that match their chosen duration. Each route comes with distance, region, difficulty level, key landmarks, and a one-click “View route” link that opens the full loop directly in Google Maps in cycling view, so riders can start navigating immediately.
 
-This app is for beginner to intermediate cyclists who are interested in finding scenic routes to ride around Singapore.
+To enhance safety planning from weather conditions, Bicycle Ride Planner connects to NEA’s live 2-hour weather forecast API from data.gov.sg. Every time a ride is planned, the app also checks the current weather and displays weather conditions along with simple advice on whether to proceed or postpone cycling trips. With a clean, card-based layout and responsive design, the app delivers a focused, cyclist-centric experience: quick, practical, and built specifically for casual riders in Singapore who want to spend less time planning and more time actually riding.
 
 **UX**
 
@@ -82,6 +82,7 @@ bicycle-ride-planner/
 
 Media
 Pictures obtained for banner and background of the site was obtained from https://www.pexels.com/search/forest%20and%20bicycle/
+
 
 
 
